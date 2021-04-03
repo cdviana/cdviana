@@ -3,7 +3,7 @@
 ### Hi there 👋
 
     📜 M.Sc. Geologist
-    👩‍🎓 D.Sc. Candidate IGc-USP
+    👩‍🎓 Ph.D. Candidate IGc-USP
     👩‍🎓 Computer Engineering UNIVESP 
     💼 Civil Protection - São Paulo City Hall
     🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸
