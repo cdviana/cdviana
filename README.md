@@ -2,15 +2,24 @@
 
 ### Hi there 👋
 
-    📜 M.Sc. Geologist
-    👩‍🎓 Ph.D. Candidate IGc-USP
-    👩‍🎓 Computer Engineering UNIVESP 
-    💼 Civil Protection - São Paulo City Hall
-    🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸
-      
-    🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
-    ⛰️ Natural Hazards ⛈️ Climate Change 
-    🧭 Structural Geology 🔎 Teaching & Research 📱 Mobile
+<table>
+<tbody>
+<tr>
+<td>📜 M.Sc. Geologist
+👩‍🎓 Ph.D. Candidate IGc-USP
+👩‍🎓 Computer Engineering UNIVESP 
+💼 Civil Protection - São Paulo City Hall
+🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸</td>
+<td>🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
+⛰️ Natural Hazards ⛈️ Climate Change 
+🧭 Structural Geology 🔎 Teaching & Research 📱 Mobile</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
     
 <img align="right" alt="Capivara" height="150" width="150" src="https://raw.githubusercontent.com/cdviana/cdviana/master/capivara.png"/>
 
