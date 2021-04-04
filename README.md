@@ -11,13 +11,12 @@
     🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
     ⛰️ Natural Hazards ⛈️ Climate Change 
     🧭 Structural Geology 🔎 Teaching & Research 📱 Mobile
+    
+<img align="right" alt="Capivara" height="150" width="150" src="https://raw.githubusercontent.com/cdviana/cdviana/master/capivara.png"/>
 
 
 ## Programming
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <img alt="Kivy" src="https://img.shields.io/badge/kivy%20-%23bebebe.svg?&style=for-the-badge&logo=kivy&logoColor=fff" alt="Badge Name"/>
-
-## Databases
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <img alt="Kivy" src="https://img.shields.io/badge/kivy%20-%23bebebe.svg?&style=for-the-badge&logo=kivy&logoColor=fff" alt="Badge Name"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ## Software
 <img alt="Blender" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/blender.svg"/> <img alt="Unity" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/unity.svg"/> <img alt="qgis" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/qgis.svg"/> <img alt="inkscape" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/inkscape.svg"/> <img alt="GIMP" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/gimp.svg"/>
