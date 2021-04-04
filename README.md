@@ -22,7 +22,7 @@
 ## Software
 <img alt="Blender" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/blender.svg"/> <img alt="Unity" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/unity.svg"/> <img alt="qgis" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/qgis.svg"/> <img alt="inkscape" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/inkscape.svg"/> <img alt="GIMP" height="32" width="32" src="https://raw.githubusercontent.com/cdviana/cdviana/master/gimp.svg"/>
 
----
+-----
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cdviana&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,b3cde0,6497b1,005b96&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdviana&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,005b96,03396c,011f4b&theme=graywhite" /></a>
 
