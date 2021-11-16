@@ -5,9 +5,8 @@
 <table>
 <tbody>
 <tr>
-<td>📜 M.Sc. Geologist
-👩‍🎓 Ph.D. Candidate IGc-USP
-👩‍🎓 Computer Engineering UNIVESP 
+<td>📜 Ph.D./M.Sc. Geologist
+👩‍🎓 Computer Engineering @UNIVESP 
 💼 Civil Protection - São Paulo City Hall
 🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸</td>
 <td>🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
