@@ -5,8 +5,7 @@
 <table>
 <tbody>
 <tr>
-<td>📜 Ph.D./M.Sc. Geologist
-👩‍🎓 Computer Engineering @UNIVESP 
+<td>📜 Ph.D./M.Sc. Geologist and Computer Engineer
 💼 Civil Protection - São Paulo City Hall
 🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸</td>
 <td>🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
