@@ -6,10 +6,10 @@
 <tbody>
 <tr>
 <td>📜 Ph.D./M.Sc. Geologist and Computer Engineer
-💼 Civil Protection - São Paulo City Hall
+💼 Professor - University of São Paulo
 🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸</td>
 <td>🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
-⛰️ Natural Hazards ⛈️ Climate Change 
+⛰️ Natural Hazards ⛈️ Climate Change 🖥️ AI
 🧭 Structural Geology 🔎 Teaching & Research 📱 Mobile</td>
 </tr>
 </tbody>
