@@ -6,7 +6,7 @@
 <tbody>
 <tr>
 <td>📜 Ph.D./M.Sc. Geologist and Computer Engineer
-💼 Professor - University of São Paulo
+💼 Assistant Professor - University of São Paulo
 🗣️ 🇧🇷 🇫🇷 🇺🇸 🇪🇸</td>
 <td>🛰️ Remote Sensing 🌎 GIS 📸 Digital Photogrammetry
 ⛰️ Natural Hazards ⛈️ Climate Change 🖥️ AI
